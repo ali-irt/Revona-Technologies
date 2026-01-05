@@ -24,7 +24,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img
-              src="/logo.png"
+              src="public\logo.png"
               alt="Revona Technologies"
               className="h-20 sm:h-24 w-auto sm:w-[180px] hover:scale-105 transition-transform duration-300"
             />
